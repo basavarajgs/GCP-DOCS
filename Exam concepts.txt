@@ -1,0 +1,45 @@
+1) IAM ----- service account releated 
+		 types of roles related 
+		 DNS---- Cname and A record 
+             
+
+2) App Engine --- split traffic releated 
+			load balancing releated 
+			
+
+3) GKE ----- kubectl commands 
+		 Horizantal scalling  and vertical scalling 
+		 Gcloud commands on GKE 
+		 autopilot and standard cluster 
+
+4) Gcloud commands ---- to set deafult projects and zones 
+				compute engine commands 
+				GKE commands 
+				IAM roles commands 
+						
+
+5) Database ----- Cloud SQL, BigQuery, Spanner, Datastore, Bigtable
+
+6) Billing ----- set up billing account 
+		     link projects to billing account 
+			estimate the cost using price calculator 
+
+7) VPC ----- questions on subnet and CIDR Block 
+		 Vpc peering 
+
+8) compute engine --- SSH connections releated 
+			     public key and private key 
+			     Gcloud commands on computre engine 
+				OPS AGENT releated 
+				Instance groups 
+
+9) Cloud monitaring and logging 
+10) cloud Scheduler 
+11) Cloud Function and Cloud run 
+12) pub sub model
+13) dataflow and dataproc
+
+14) cloud storage --- object lifecycle policy 
+			     retention policy 
+				object versioning 
+		

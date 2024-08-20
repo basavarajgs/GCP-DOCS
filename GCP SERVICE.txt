@@ -1,0 +1,74 @@
+
+1) COMPUTE ENGINE--- INETRNAL AND EXTERNAL IP 
+
+
+2) APP ENGINE ----- https://medium.com/@prayag-sangode/deploy-a-simple-html-application-on-google-app-engine-gae-4374280eabca
+			  https://codelabs.developers.google.com/codelabs/cloud-app-engine-python3/#1
+
+3) GKE ----- https://medium.com/linkbynet/deploy-your-first-google-kubernetes-enginer-gke-cluster-easy-steps-10379483ce52
+
+4) CLOUD FUNCTIONS 
+5) CLOUD RUN 
+6) KMS 
+7) LOAD BALANCERS 
+8) STORAGE --- BLOCK STORAGE
+		   FILE STORGAE 
+9) OBJECT STORAGE 
+10)IAM ----- USER IDENTITY MANAGMENT 
+		 IAM MEMBERS/IDENTITIES
+		 ORGANIZATION POLICY SERVICE 
+		 IAM PREDEFINED ROLES 
+
+11)DATABASE---- SQL
+		    CLOUD SPANNER 
+		    CLOUD DATASTORE AND FIRESTORE
+		    CLOUD BIGTABLE
+		    MEMORY STORE
+		    BIG QUERY
+12) COST AND BILLING ----- SUSTAINED USE DISCUOUNTS
+				   COMMITED USE DISCOUNTS
+				   PREEMTABLE VMs
+				   SPOT VMs
+				   BILLING ACCOUNT
+
+13) PUB SUB MODEL
+14) VPC 
+15) CLOUD MONITORING
+    CLOUD LOGGING
+    CLOUD TRACE 
+    CLOUD PROFILER 
+    CLOUD INTERCONNECT
+16) GOOGLE PRICE CALCULATOR
+17) GOOGLE CLOUD DEPLOYMENT MANAGER
+18) CLOUD MARKETPLACE
+19) CLOUD DNS
+20) CLOUD DATAFLOW
+21) CLOUD DATAPROC
+22) CLOUD COMPOSER	
+23) CLOUD SCHEDULER 
+25) CLOUD FOUNDATION TOOLKIT
+
+
+
+ 
+GCP exam question links : 1)https://www.whizlabs.com/blog/gcp-associate-cloud-engineer-questions/
+			2) https://www.gcp-examquestions.com/gcp-associate-cloud-engineer-practice-exam-part-1/
+			3) https://www.examtopics.com/exams/google/associate-cloud-engineer/view/
+			4)https://www.certshero.com/google/associate-cloud-engineer/practice-test
+			5)https://www.itexams.com/exam/Associate-Cloud-Engineer
+
+
+youtube links : 1)https://www.youtube.com/playlist?list=PLXgVtmIQkys3tF8v3QJ-bQGWzk10c8roJ
+			2)https://www.youtube.com/watch?v=MESzvFfGhN8&list=PLQMsfKRZZviRwqJwNmh1eAWnRMvlrk40x&index=1&t=0s
+			3)https://www.youtube.com/watch?v=PUid9-TIdIQ&list=PLBRBRV08tHh1e9oqTsONC5AuhFd-SUXWq
+
+
+IMP TOPICS FOR EXAM :   1)K8s
+				2)APP ENGINE
+				3)IAM
+				4)VPC
+				5)PROJECT BILLING
+				6)LOGGING AND MONITARING 
+				7)CLOUD STORAGE 
+				8) CLOUD DATABASE 
+
